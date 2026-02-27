@@ -24,7 +24,7 @@ library(udpipe)
 all_words <- 
   read_delim("https://raw.githubusercontent.com/ScriptSmith/topwords/refs/heads/master/counts.txt", 
              delim = " ",
-             col_names = c("frequency", "word"))
+             col_names = c("n", "word"))
 
 
 
@@ -35,7 +35,7 @@ all_words <-
 words <- 
   all_words |> 
   anti_join(tidytext::stop_words) |> 
-  filter(frequency > 1000) |> 
+  filter(n > 1000) |> 
   filter(grepl("^[a-z]+$", word)) |> 
   filter(nchar(word) > 2)
 
@@ -46,10 +46,11 @@ en_model <-
 # Tag all words and filter to nouns only
 nouns <- 
   udpipe_annotate(en_model, 
-                  x = pull(nouns, word), 
+                  x = pull(words, word), 
                   parser = "none") |> 
   as_tibble() |> 
-  filter(upos == "NOUN")
+  filter(upos == "NOUN") |> 
+  filter(nchar(lemma) > 2)
 
 # Clean nouns and join with word frequencies
 clean_nouns <- 
@@ -61,18 +62,23 @@ clean_nouns <-
     .default = NA
   )) |> 
   drop_na(number) |> 
+  filter_out(number == "singular", token != lemma) |> 
   select(-feats) |> 
   inner_join(words, by = join_by(token == word)) |> 
-  add_count(lemma) |> 
-  filter(n == 2) |> 
-  select(-n) |> 
+  add_count(lemma, name = "freq") |> 
+  filter(freq > 1) |> 
+  select(-freq) |> 
+  slice_max(n = 1, order_by = n, by = c(lemma, number)) |> 
   filter(length(unique(number)) == 2, .by = lemma)
 
 clean_nouns |> 
-  select(token, number, frequency) |> 
+  select(token, number, n) |> 
+  arrange(desc(n)) |> 
   write_tsv("token_freqs.tsv")
 
 clean_nouns |> 
   select(word = token, lemma) |> 
+  arrange(word) |> 
   write_csv2("word_lemma.csv")
+
 ```
