@@ -1,16 +1,21 @@
 token	number	n
 time	singular	4138205
+day	singular	2810238
 life	singular	2389819
 hand	singular	1768511
 night	singular	1547068
 head	singular	1472625
 father	singular	1423974
+king	singular	1346880
+sir	singular	1329162
 water	singular	1281042
 mind	singular	1218665
 half	singular	1199552
+heart	singular	1197973
 country	singular	1189815
 lord	singular	1155030
 mother	singular	1134037
+days	plural	1105864
 letter	singular	1101792
 woman	singular	1091352
 light	singular	1050268
@@ -22,11 +27,13 @@ power	singular	925187
 morning	singular	912997
 lady	singular	905615
 word	singular	885883
+war	singular	878564
 feet	plural	854124
 miss	singular	845584
 matter	singular	844529
 voice	singular	823236
 nature	singular	814665
+children	plural	805837
 fire	singular	800098
 friend	singular	794429
 girl	singular	794344
@@ -38,11 +45,16 @@ city	singular	765659
 times	plural	752948
 form	singular	749222
 boy	singular	744666
+money	singular	740765
+air	singular	738355
+child	singular	716224
+law	singular	699765
 women	plural	699211
 hope	singular	680277
 town	singular	658194
 friends	plural	652461
 book	singular	650668
+hour	singular	647075
 government	singular	642475
 family	singular	629563
 reason	singular	622436
@@ -77,6 +89,7 @@ bed	singular	488027
 court	singular	475609
 school	singular	473434
 chief	singular	467534
+hours	plural	463861
 service	singular	446894
 boys	plural	431245
 husband	singular	428707
@@ -138,6 +151,7 @@ week	singular	313831
 camp	singular	310556
 cross	singular	309372
 result	singular	308251
+tom	singular	304613
 direction	singular	303719
 uncle	singular	303234
 piece	singular	303127
@@ -161,10 +175,12 @@ religion	singular	283940
 joy	singular	283516
 chair	singular	281447
 colonel	singular	279917
+james	plural	279554
 author	singular	278985
 circumstances	plural	278163
 picture	singular	277893
 success	singular	277315
+tears	plural	275457
 lives	plural	274185
 charge	singular	273397
 study	singular	271554
@@ -180,6 +196,7 @@ afternoon	singular	262839
 soldiers	plural	262285
 walls	plural	261819
 bit	singular	261744
+laws	plural	261671
 forms	plural	260692
 judge	singular	258341
 meeting	singular	258066
@@ -251,6 +268,7 @@ report	singular	217410
 breath	singular	215005
 powers	plural	213690
 emperor	singular	213536
+affairs	plural	213011
 science	singular	212390
 promise	singular	212251
 conduct	singular	212039
@@ -275,6 +293,7 @@ crowd	singular	205241
 don	singular	204238
 difference	singular	204198
 capital	singular	203722
+terms	plural	203361
 sake	singular	203253
 council	singular	203203
 ships	plural	202940
@@ -305,6 +324,7 @@ weight	singular	186229
 passion	singular	185723
 measure	singular	184728
 practice	singular	184643
+hearts	plural	184585
 robert	singular	184583
 nations	plural	183454
 honor	singular	183341
@@ -345,6 +365,7 @@ shoulders	plural	169242
 tongue	singular	169221
 smith	singular	168834
 height	singular	168439
+legs	plural	167695
 volume	singular	167486
 prayer	singular	167464
 county	singular	167459
@@ -371,6 +392,7 @@ results	plural	162326
 type	singular	162083
 stones	plural	161861
 theory	singular	161795
+relief	singular	161594
 carriage	singular	161025
 birth	singular	160481
 cover	singular	158976
@@ -428,8 +450,10 @@ consideration	singular	146365
 proof	singular	146325
 secretary	singular	146278
 burst	singular	146278
+term	singular	146200
 farm	singular	146198
 mistress	singular	145862
+kings	plural	145273
 deck	singular	144862
 impression	singular	144636
 noise	singular	144576
@@ -456,6 +480,7 @@ doors	plural	140284
 imagination	singular	139416
 edition	singular	139398
 brothers	plural	139332
+affair	singular	139276
 policy	singular	139274
 roof	singular	139153
 express	singular	139129
@@ -528,6 +553,7 @@ statement	singular	124555
 region	singular	124385
 praise	singular	124219
 classes	plural	123929
+cap	singular	123910
 effects	plural	123893
 demand	singular	123861
 fault	singular	123702
@@ -681,6 +707,7 @@ average	singular	97075
 teacher	singular	97052
 flame	singular	96992
 nurse	singular	96279
+tent	singular	95934
 authorities	plural	95921
 discussion	singular	95843
 gates	plural	95746
@@ -706,6 +733,7 @@ provisions	plural	93607
 resolution	singular	93445
 tide	singular	93434
 emotion	singular	93385
+leg	singular	93261
 fox	singular	93251
 sisters	plural	93034
 lion	singular	92940
@@ -826,6 +854,7 @@ adventure	singular	80145
 seventy	singular	80102
 saddle	singular	80097
 dread	singular	80005
+deny	singular	79975
 testimony	singular	79941
 wire	singular	79848
 strain	singular	79365
@@ -863,6 +892,7 @@ debt	singular	76911
 venture	singular	76867
 uniform	singular	76563
 succession	singular	76525
+boots	plural	76334
 consequences	plural	76328
 fears	plural	76304
 distress	singular	76284
@@ -876,6 +906,7 @@ parish	singular	75558
 inquiry	singular	75520
 navy	singular	75485
 angels	plural	75361
+bath	singular	75094
 bark	singular	74971
 copper	singular	74922
 declare	singular	74911
@@ -946,6 +977,7 @@ museum	singular	69790
 assure	singular	69623
 basket	singular	69579
 motive	singular	69534
+tear	singular	69506
 intimate	singular	69461
 egg	singular	69459
 visitor	singular	69429
@@ -989,6 +1021,7 @@ leather	singular	67694
 bid	singular	67639
 harmony	singular	67606
 cents	plural	67392
+wars	plural	67373
 criticism	singular	67269
 fur	singular	67236
 arise	singular	67208
@@ -1474,6 +1507,7 @@ horns	plural	43198
 gang	singular	43194
 scholar	singular	43170
 manuscript	singular	43124
+tents	plural	43086
 revenue	singular	43048
 evils	plural	43021
 function	singular	43005
@@ -1691,6 +1725,7 @@ presume	singular	36994
 dresses	plural	36956
 matthew	singular	36925
 drag	singular	36924
+index	singular	36912
 crow	singular	36839
 treason	singular	36739
 burial	singular	36714
@@ -1925,6 +1960,7 @@ token	singular	31590
 clubs	plural	31572
 actor	singular	31571
 policeman	singular	31514
+serves	plural	31502
 barrier	singular	31492
 conversion	singular	31483
 scales	plural	31481
@@ -2165,6 +2201,7 @@ forts	plural	27148
 pasture	singular	27141
 epistle	singular	27132
 mound	singular	27117
+devote	singular	27105
 swamp	singular	27091
 hosts	plural	27091
 advances	plural	27090
@@ -2319,6 +2356,7 @@ ounces	plural	24642
 usage	singular	24630
 tombs	plural	24587
 studio	singular	24584
+caps	plural	24576
 statute	singular	24573
 devices	plural	24565
 transactions	plural	24563
@@ -2328,6 +2366,7 @@ cheers	plural	24471
 willow	singular	24455
 dock	singular	24446
 dot	singular	24441
+boot	singular	24440
 defects	plural	24431
 practise	singular	24428
 dagger	singular	24428
@@ -2454,6 +2493,7 @@ dispose	singular	22760
 explanations	plural	22747
 cemetery	singular	22742
 drinks	plural	22714
+pop	singular	22707
 councils	plural	22678
 herds	plural	22670
 fills	plural	22670
@@ -2469,6 +2509,7 @@ edifice	singular	22494
 cavern	singular	22478
 victories	plural	22454
 automobile	singular	22440
+airs	plural	22440
 lists	plural	22439
 tray	singular	22437
 ridges	plural	22434
@@ -2546,6 +2587,7 @@ scores	plural	21501
 strand	singular	21490
 cultivate	singular	21487
 feller	singular	21471
+tap	singular	21454
 mat	singular	21451
 netherlands	plural	21440
 detect	singular	21428
@@ -2591,6 +2633,7 @@ hound	singular	20983
 expeditions	plural	20974
 grape	singular	20953
 reject	singular	20915
+caves	plural	20911
 resign	singular	20903
 publisher	singular	20874
 investigations	plural	20860
@@ -2613,6 +2656,7 @@ accomplishment	singular	20762
 robber	singular	20758
 earthquake	singular	20737
 pins	plural	20724
+reef	singular	20722
 guise	singular	20702
 censure	singular	20688
 expenditures	plural	20685
@@ -2808,6 +2852,7 @@ inventions	plural	18761
 distinctions	plural	18756
 goldsmith	singular	18751
 litter	singular	18750
+baths	plural	18746
 amusements	plural	18721
 cricket	singular	18715
 haunts	plural	18703
@@ -2939,6 +2984,7 @@ loads	plural	17489
 comb	singular	17488
 labourers	plural	17482
 tint	singular	17472
+jam	singular	17461
 contracts	plural	17439
 cabbage	singular	17439
 celebration	singular	17432
@@ -3436,6 +3482,7 @@ lanes	plural	13516
 confessor	singular	13516
 crater	singular	13515
 decency	singular	13501
+popes	plural	13497
 allusions	plural	13491
 snows	plural	13483
 invitations	plural	13483
@@ -3858,6 +3905,7 @@ hoof	singular	10893
 embers	plural	10885
 excesses	plural	10879
 ravages	plural	10877
+denies	plural	10873
 comers	plural	10868
 creeks	plural	10862
 tenure	singular	10860
@@ -3997,6 +4045,7 @@ carbonate	singular	10153
 dancer	singular	10145
 teller	singular	10142
 suns	plural	10131
+reefs	plural	10129
 cherries	plural	10117
 steeple	singular	10116
 sites	plural	10114
@@ -4319,6 +4368,7 @@ gutter	singular	8728
 chisel	singular	8728
 carpenters	plural	8727
 reptile	singular	8725
+cafe	singular	8723
 slumbers	plural	8722
 bungalow	singular	8722
 imaginations	plural	8721
@@ -4640,6 +4690,7 @@ grit	singular	7517
 buckets	plural	7509
 imitations	plural	7503
 defeats	plural	7492
+reliefs	plural	7487
 imposition	singular	7487
 tier	singular	7486
 harbors	plural	7480
@@ -4665,6 +4716,7 @@ appendages	plural	7399
 petticoats	plural	7396
 matthews	plural	7391
 waterfall	singular	7386
+sirs	plural	7382
 clutches	plural	7370
 surge	singular	7365
 meyer	singular	7357
@@ -5411,6 +5463,7 @@ hyacinth	singular	5311
 balustrade	singular	5311
 evasion	singular	5306
 interruptions	plural	5300
+moneys	plural	5299
 hunts	plural	5298
 injun	singular	5295
 testimonies	plural	5291
@@ -5529,6 +5582,7 @@ personification	singular	5042
 butts	plural	5041
 latins	plural	5035
 fide	singular	5032
+devotees	plural	5027
 epigrams	plural	5026
 candlesticks	plural	5023
 benefactors	plural	5021
@@ -5545,6 +5599,7 @@ straws	plural	4997
 compilation	singular	4997
 uplands	plural	4995
 executions	plural	4993
+taps	plural	4991
 facsimile	singular	4989
 afflict	singular	4982
 embarrassments	plural	4981
@@ -5967,6 +6022,7 @@ talons	plural	4190
 lurk	singular	4189
 contingencies	plural	4189
 orations	plural	4187
+serf	singular	4184
 daye	singular	4184
 cereals	plural	4184
 broods	plural	4182
@@ -8042,6 +8098,7 @@ baboons	plural	1723
 wooers	plural	1720
 porpoises	plural	1719
 volitions	plural	1718
+tomes	plural	1718
 sharpers	plural	1718
 cupolas	plural	1718
 classifications	plural	1718
@@ -8287,6 +8344,7 @@ flier	singular	1525
 choctaw	singular	1525
 abstracts	plural	1525
 gesticulation	singular	1524
+indexes	plural	1523
 conduits	plural	1523
 scrapers	plural	1522
 certainties	plural	1521

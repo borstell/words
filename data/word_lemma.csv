@@ -133,6 +133,8 @@ advocate;advocate
 advocates;advocate
 aeroplane;aeroplane
 aeroplanes;aeroplane
+affair;affair
+affairs;affair
 affectation;affectation
 affectations;affectation
 affection;affection
@@ -173,10 +175,12 @@ ailments;ailment
 ails;ail
 aim;aim
 aims;aim
+air;air
 airplane;airplane
 airplanes;airplane
 airport;airport
 airports;airport
+airs;air
 airship;airship
 airships;airship
 aisle;aisle
@@ -676,6 +680,8 @@ batch;batch
 batches;batch
 bate;bate
 bates;bate
+bath;bath
+baths;bath
 bats;bat
 battalion;battalion
 battalions;battalion
@@ -887,6 +893,8 @@ boon;boon
 boons;boon
 boor;boor
 boors;boor
+boot;boot
+boots;boot
 border;border
 borders;border
 bore;bore
@@ -1163,6 +1171,7 @@ cadet;cadet
 cadets;cadet
 caesar;caesar
 caesars;caesar
+cafe;cafe
 cage;cage
 cages;cage
 cairn;cairn
@@ -1233,6 +1242,7 @@ cantons;canton
 cantos;canto
 canyon;canyon
 canyons;canyon
+cap;cap
 caper;caper
 capers;caper
 capillaries;capillary
@@ -1245,6 +1255,7 @@ capon;capon
 capons;capon
 caprice;caprice
 caprices;caprice
+caps;cap
 capsule;capsule
 capsules;capsule
 captor;captor
@@ -1353,6 +1364,7 @@ cavalryman;cavalryman
 cavalrymen;cavalryman
 cavern;cavern
 caverns;cavern
+caves;cafe
 cavities;cavity
 cavity;cavity
 cease;cease
@@ -1503,6 +1515,8 @@ chief;chief
 chiefs;chief
 chieftain;chieftain
 chieftains;chieftain
+child;child
+children;child
 chill;chill
 chills;chill
 chime;chime
@@ -2385,8 +2399,10 @@ davie;davie
 davies;davie
 dawn;dawn
 dawns;dawn
+day;day
 daye;daye
 dayes;daye
+days;day
 dazzle;dazzle
 dazzles;dazzle
 deacon;deacon
@@ -2501,6 +2517,7 @@ demon;demon
 demons;demon
 demonstration;demonstration
 demonstrations;demonstration
+denies;deny
 denizen;denizen
 denizens;denizen
 denomination;denomination
@@ -2513,6 +2530,7 @@ dentist;dentist
 dentists;dentist
 denunciation;denunciation
 denunciations;denunciation
+deny;deny
 depart;depart
 department;department
 departments;department
@@ -2587,6 +2605,8 @@ deviation;deviation
 deviations;deviation
 device;device
 devices;device
+devote;devote
+devotees;devote
 devotion;devotion
 devotions;devotion
 devour;devour
@@ -4163,6 +4183,8 @@ health;health
 healths;health
 hearer;hearer
 hearers;hearer
+heart;heart
+hearts;heart
 heath;heath
 heaths;heath
 heaven;heaven
@@ -4291,6 +4313,8 @@ hotel;hotel
 hotels;hotel
 hound;hound
 hounds;hound
+hour;hour
+hours;hour
 household;household
 householder;householder
 householders;householder
@@ -4447,6 +4471,8 @@ indentation;indentation
 indentations;indentation
 indenture;indenture
 indentures;indenture
+index;index
+indexes;index
 indication;indication
 indications;indication
 indictment;indictment
@@ -4661,6 +4687,8 @@ jailers;jailer
 jails;jail
 jake;jake
 jakes;jake
+jam;jam
+james;jam
 jap;jap
 japs;jap
 jar;jar
@@ -4755,8 +4783,10 @@ kindle;kindle
 kindles;kindle
 kindness;kindness
 kindnesses;kindness
+king;king
 kingdom;kingdom
 kingdoms;kingdom
+kings;king
 kiowa;kiowa
 kiowas;kiowa
 kiss;kiss
@@ -4867,8 +4897,10 @@ launch;launch
 launches;launch
 lava;lava
 lavas;lava
+law;law
 lawn;lawn
 lawns;lawn
+laws;law
 lawsuit;lawsuit
 lawsuits;lawsuit
 lawyer;lawyer
@@ -4893,6 +4925,7 @@ leech;leech
 leeches;leech
 leek;leek
 leeks;leek
+leg;leg
 legacies;legacy
 legacy;legacy
 legate;legate
@@ -4907,6 +4940,7 @@ legislator;legislator
 legislators;legislator
 legislature;legislature
 legislatures;legislature
+legs;leg
 lemon;lemon
 lemons;lemon
 lend;lend
@@ -5433,6 +5467,8 @@ monday;monday
 mondays;monday
 monde;monde
 mondes;monde
+money;money
+moneys;money
 monger;monger
 mongers;monger
 mongol;mongol
@@ -6365,6 +6401,8 @@ pontiff;pontiff
 pontiffs;pontiff
 pontoon;pontoon
 pontoons;pontoon
+pop;pop
+popes;pop
 poplar;poplar
 poplars;poplar
 pore;pore
@@ -6907,6 +6945,8 @@ reduce;reduce
 reduces;reduce
 reduction;reduction
 reductions;reduction
+reef;reef
+reefs;reef
 reel;reel
 reels;reel
 reference;reference
@@ -6953,6 +6993,8 @@ relationship;relationship
 relationships;relationship
 relay;relay
 relays;relay
+relief;relief
+reliefs;relief
 religion;religion
 religions;religion
 remark;remark
@@ -7499,6 +7541,7 @@ separation;separation
 separations;separation
 sequence;sequence
 sequences;sequence
+serf;serf
 sergeant;sergeant
 sergeants;sergeant
 serjeant;serjeant
@@ -7509,6 +7552,7 @@ serpent;serpent
 serpents;serpent
 servant;servant
 servants;servant
+serves;serf
 service;service
 services;service
 servitor;servitor
@@ -7679,6 +7723,8 @@ sinner;sinner
 sinners;sinner
 sip;sip
 sips;sip
+sir;sir
+sirs;sir
 sister;sister
 sisters;sister
 site;site
@@ -8379,10 +8425,12 @@ tank;tank
 tankard;tankard
 tankards;tankard
 tanks;tank
+tap;tap
 taper;taper
 tapers;taper
 tapestries;tapestry
 tapestry;tapestry
+taps;tap
 tar;tar
 tara;tara
 taras;tara
@@ -8413,6 +8461,8 @@ team;team
 teams;team
 teamster;teamster
 teamsters;teamster
+tear;tear
+tears;tear
 teaspoon;teaspoon
 teaspoons;teaspoon
 teem;teem
@@ -8457,18 +8507,22 @@ tenet;tenet
 tenets;tenet
 tense;tense
 tenses;tense
+tent;tent
 tentacle;tentacle
 tentacles;tentacle
+tents;tent
 tenure;tenure
 tenures;tenure
 tepee;tepee
 tepees;tepee
+term;term
 terminal;terminal
 terminals;terminal
 terminate;terminate
 terminates;terminate
 termination;termination
 terminations;termination
+terms;term
 tern;tern
 terns;tern
 terrace;terrace
@@ -8587,6 +8641,7 @@ token;token
 tokens;token
 toll;toll
 tolls;toll
+tom;tom
 toma;toma
 tomahawk;tomahawk
 tomahawks;tomahawk
@@ -8595,6 +8650,7 @@ tomb;tomb
 tombs;tomb
 tombstone;tombstone
 tombstones;tombstone
+tomes;tom
 tommies;tommy
 tommy;tommy
 ton;ton
@@ -9097,6 +9153,7 @@ walter;walter
 walters;walter
 wanderer;wanderer
 wanderers;wanderer
+war;war
 warbler;warbler
 warblers;warbler
 warden;warden
@@ -9115,6 +9172,7 @@ warre;warre
 warres;warre
 warrior;warrior
 warriors;warrior
+wars;war
 warship;warship
 warships;warship
 wart;wart
